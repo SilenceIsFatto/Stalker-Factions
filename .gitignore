@@ -1,0 +1,6 @@
+*.pbo
+*.vscode
+*.png
+*.biprivatekey
+build
+release

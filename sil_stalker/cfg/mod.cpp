@@ -1,0 +1,15 @@
+name = "STALKER Factions";
+author = "Silence";
+description = "";
+tooltip = "STALKER Factions";
+tooltipOwned = "STALKER Factions";
+overview = "";
+actionName = "GitHub";
+action = "https://github.com/SilenceIsFatto/Stalker-Factions";
+hideName = 0;
+hidePicture = 0;
+dlcColor[] = {1, 0, 0, 1};
+logo = "\z\sil_stalker\addons\core\logo_ca.paa"; // Logo displayed in the main menu
+logoOver = "\z\sil_stalker\addons\core\logo_over_ca.paa"; // When the mouse is over, in the main menu
+picture = "\z\sil_stalker\addons\core\logo_picture_ca.paa"; // Picture displayed from the expansions menu. Optimal size is 2048x1024
+logoSmall = "\z\sil_stalker\addons\core\logo_ca.paa"; // Display in creative lists, next to the entities added by the mod
